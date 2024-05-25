@@ -1,5 +1,6 @@
 # Hybrid in office days requirement
 In a hybrid office sometimes staff are given a percentage as to the amount of time during a given month that they need to be in the office. This calculates the number of days a staff member needs to be in the office based on that percentage.
+The project can be used directly via stackblitz https://stackblitz.com/edit/vitejs-vite-fmmamg?file=README.md
 
 ## default month
 
@@ -19,3 +20,6 @@ This is the percent of working time that staff are expected to be in the office.
 ## days in office result
 
 After the days in office is calculated it is rounded the the whole day rather than giving a fractional result.
+
+# Note
+I created this as a way to try out using the vue.js framework.
